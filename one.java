@@ -4,7 +4,7 @@ package com.hdfcbank;
  * Hello world!
  *
  */
-public class sampleApp 
+public class sampleAppssss
 {
     public static void main( String[] args )
     {
